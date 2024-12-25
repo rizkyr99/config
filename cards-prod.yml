@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0
+
+accounts:
+  message: Hello from cards
+  contactDetails:
+    name: John Doe
+    email: 6yqJY@example.com
+  onCallSupport:
+    - 1234567890
+    - 9876543210
