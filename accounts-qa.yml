@@ -2,7 +2,7 @@ build:
   version: 2.0.0
 
 accounts:
-  message: Hello from accounts QA API
+  message: Hello from accounts Quality A API
   contactDetails:
     name: John Doe
     email: 6yqJY@example.com
